@@ -40,5 +40,4 @@ Made With Creative Commons is published with the kind support of Creative Common
 - David Foster Wallace
 
 ##### Links
-|[Next](foreword.md) | [Previous](index.md) |  [Index](index.md)
-| ---- | ---- | ---- |
+|[Next](foreword.md) | [Previous](index.md) |  [Index](index.md) |

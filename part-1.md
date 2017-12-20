@@ -489,5 +489,4 @@ For more about the licenses including examples and tips on sharing your work in 
 creativecommons.org/share-your-work/. 
 
 ##### Links
-|[Next](part-2.md) | [Previous](introduction.md) |  [Index](index.md)
-| ---- | ---- | ---- |
+|[Next](part-2.md) | [Previous](introduction.md) |  [Index](index.md) |

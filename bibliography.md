@@ -73,5 +73,4 @@ Von Hippel, Eric. Democratizing Innovation. London: MIT Press, 2005. web.mit.edu
 Whitehurst, Jim. The Open Organization: Igniting Passion and Performance. Boston: Harvard Business Review Press, 2015. 
 
 ##### Links
-|[Next](aknowledgements.md) | [Previous](part-2.md) |  [Index](index.md)
-| ---- | ---- | ---- |
+|[Next](aknowledgements.md) | [Previous](part-2.md) |  [Index](index.md) |

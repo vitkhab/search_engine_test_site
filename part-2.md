@@ -1179,5 +1179,4 @@ Web link
 gimletmedia.com/episode/14-the-art-of-making-and-fixing-mistakes/
 
 ##### Links
-|[Next](bibliography.md) | [Previous](part-1.md) |  [Index](index.md)
-| ---- | ---- | ---- |
+|[Next](bibliography.md) | [Previous](part-1.md) |  [Index](index.md) |

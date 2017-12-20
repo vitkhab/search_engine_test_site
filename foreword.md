@@ -27,5 +27,4 @@ Ryan Merkley
 CEO, Creative Commons
 
 ##### Links
-|[Next](introduction.md) | [Previous](title.md) |  [Index](index.md)
-| ---- | ---- | ---- |
+|[Next](introduction.md) | [Previous](title.md) |  [Index](index.md) |

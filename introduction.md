@@ -19,5 +19,4 @@ Writing this book has transformed and inspired us. The way we now look at and th
 Paul and Sarah 
 
 ##### Links
-|[Next](part-1.md) | [Previous](foreword.md) |  [Index](index.md)
-| ---- | ---- | ---- |
+|[Next](part-1.md) | [Previous](foreword.md) |  [Index](index.md) |

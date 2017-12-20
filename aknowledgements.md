@@ -14,5 +14,4 @@ Michaud, Helen Qubain, Helle Rekdal Schønemann, Henrique Flach Latorre Moreno, 
 
 
 ##### Links
-|[Next](index.md) | [Previous](bibliography.md) |  [Index](index.md)
-| ---- | ---- | ---- |
+|[Next](index.md) | [Previous](bibliography.md) |  [Index](index.md) |
