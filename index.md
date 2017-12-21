@@ -1,7 +1,2 @@
-* [Title](title.md)
-* [Foreword](foreword.md)
-* [Introduction](introduction.md)
-* [Part 1](part-1.md)
-* [Part 2](part-2.md)
-* [Bibliography](bibliography.md)
-* [Aknowledgements](aknowledgements.md)
+# Books
+* [Made with Creative Commons](made_with_creative_commons/index.md)
